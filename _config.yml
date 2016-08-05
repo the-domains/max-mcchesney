@@ -1,4 +1,3 @@
-layout_spectrum: 0.22994635137729347
 typography_spectrum: 0.9206673337612301
 color:
   brandStrength: 0.46022344939410686
@@ -11,8 +10,10 @@ color:
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
-name: Max McChesney
+layout_spectrum: 0.22994635137729347
 author:
   name: Max McChesney
   email: max@digitalcrafts.com
   url: www.DigitalCrafts.com
+name: Max McChesney
+title: Along The Way
